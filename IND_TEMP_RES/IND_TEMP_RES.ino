@@ -1,6 +1,6 @@
 // Thesis: Modeling of artificial muscles made of nylon wire 
 // Author: Gabriel Silva - 82084 - MEEC - IST Lisbon - 2018/2019 
-// Description: Measure actuator resistance, to compute its temperature indirectly
+// Description: Measures the actuator resistance, to compute its temperature indirectly
 
 // Define inputs
 #define INPUT_PIN A0    // Analog input pin
