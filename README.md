@@ -32,7 +32,7 @@ AAA_1SCP | Angle variation acquisition with the AAA using 1 SCP actuator | contr
 		     	
 AAA_2SCP | Angle variation acquisition with the AAA using 2 SCP actuators | contraction/expansion enhancement 
 		    		
-IND_TEMP_RES | Measure actuator resistance, to compute its temperature indirectly | acquisition methods
+IND_TEMP_RES | Measures the actuator resistance, to compute its temperature indirectly | acquisition methods
 		    	
 AAA_ANG_TRACK | Verification tests upon the AAA: angle tracking performance | verification: real system
 
