@@ -6,7 +6,7 @@ There is also a MATLAB file that was created in order to acquire the data, from 
 
 ARDUINO files:
 
-File name | Description | chapter
+File name | Description | Dissertation chapter
 
 REV_COUNTER | Motor revolution counter | twisting and coiling
 
